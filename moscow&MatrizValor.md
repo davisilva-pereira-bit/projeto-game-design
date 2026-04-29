@@ -25,27 +25,3 @@ Sistema de navegação pelo vento
 Multiplayer competitivo no lançamento
 Sistema de construção de base
 Mecânicas complexas de sobrevivência
-
----------------------------//---------------------------//---------------------------//------------------------------------------------------//---------------------------
-
-**Alto Valor / Baixo Esforço (prioridade alta)**
-
-Refinamento do sistema de combate
-Interface simples e intuitiva
-Sistema de orientação visual (vento)
-
-**Alto Valor / Alto Esforço**
-
-Mundo aberto detalhado
-Narrativa cinematográfica
-Inteligência artificial avançada
-
-**Baixo Valor / Baixo Esforço**
-
-Itens cosméticos simples
-Pequenas atividades secundárias
-
-**Baixo Valor / Alto Esforço**
-
-Sistemas que fogem do foco principal (ex: construção de base)
-Mecânicas que prejudicam a imersão do tema samurai
