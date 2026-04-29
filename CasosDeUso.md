@@ -8,13 +8,13 @@ O sistema exibe o menu inicial
 
 O jogador seleciona uma opção:
 
-Continue → retoma o jogo salvo
+-Continue → retoma o jogo salvo
 
-Load Game → escolhe um save
+-Load Game → escolhe um save
 
-New Game → inicia um novo jogo
+-New Game → inicia um novo jogo
 
-Options → acessa configurações
+-Options → acessa configurações
 
 **Resultado Esperado:**
 O jogo executa a ação escolhida corretamente
@@ -29,23 +29,23 @@ O jogador acessa “Options”
 
 O sistema exibe categorias:
 
-Gamepad
+-Gamepad
 
-Game
+-Game
 
-Audio
+-Audio
 
-Display
+-Display
 
-Graphics
+-Graphics
 
-Mouse & Keyboard
+-Mouse & Keyboard
 
-Accessibility
+-Accessibility
 
-O jogador altera configurações
+--O jogador altera configurações
 
-O sistema aplica as mudanças
+--O sistema aplica as mudanças
 
 **Resultado Esperado:**
 Configurações são salvas e aplicadas corretamente
@@ -58,19 +58,19 @@ Ator: Jogador
 
 Fluxo do Usuário:
 
-O jogador abre o mapa
+-O jogador abre o mapa
 
-O sistema exibe a região com ícones e pontos de interesse
+-O sistema exibe a região com ícones e pontos de interesse
 
-O jogador pode:
+-O jogador pode:
 
-Movimentar o mapa (pan)
+-Movimentar o mapa (pan)
 
-Dar zoom
+-Dar zoom
 
-Centralizar posição
+-Centralizar posição
 
-Selecionar um local
+-Selecionar um local
 
 **Ações que podem acontecer:**
 
