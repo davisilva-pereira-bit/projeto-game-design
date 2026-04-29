@@ -10,7 +10,7 @@ Mecânicas de furtividade
 
 Inteligência artificial dos inimigos
 
-
+----------//----------//----------//----------//----------
 
 **Should Have (Importante, mas não crítico)**
 
@@ -22,7 +22,7 @@ Sistema de viagem rápida
 
 Personalização de equipamentos
 
-
+----------//----------//----------//----------//----------
 
 **Could Have (Desejável)**
 
@@ -34,7 +34,7 @@ Customização estética adicional
 
 Sistema de navegação pelo vento
 
-
+----------//----------//----------//----------//----------
 
 **Won’t Have (Fora de escopo inicial)**
 
