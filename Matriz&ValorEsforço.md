@@ -5,8 +5,6 @@ Ações básicas (corrida, agachamento)
 Combate corpo a corpo básico
 Ataques furtivos
 Sistema de salvamento automático
-Interação com NPCs e aceitação de missões
-Ajuste de dificuldade
 
 **Alto Valor / Alto Esforço (essenciais, porém complexas)**
 
@@ -15,10 +13,6 @@ Duelos individuais com mecânica própria
 Mundo aberto completo e explorável
 Sistema de clima dinâmico
 Árvore de habilidades (progressão RPG)
-Sistema de equipamentos com atributos
-Cutscenes e narrativa principal
-Sistema de navegação pelo vento
-IA de NPCs e missões (Contos)
 
 **Baixo Valor / Baixo Esforço (melhorias simples)**
 
