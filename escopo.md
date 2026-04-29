@@ -2,7 +2,7 @@
 
 Sistema de combate com espadas e diferentes posturas
 
-Mecânicas de furtividade (estilo “Ghost”)
+Mecânicas de furtividade 
 
 Mundo aberto explorável (ilha de Tsushima)
 
