@@ -51,3 +51,36 @@ O sistema aplica as mudanças
 Configurações são salvas e aplicadas corretamente
 
 ----------//----------//----------//----------//----------//----------
+
+**Caso de Uso 3 – Navegar pelo Mapa**
+Ator: Jogador
+
+
+Fluxo do Usuário:
+
+O jogador abre o mapa
+
+O sistema exibe a região com ícones e pontos de interesse
+
+O jogador pode:
+
+Movimentar o mapa (pan)
+
+Dar zoom
+
+Centralizar posição
+
+Selecionar um local
+
+**Ações que podem acontecer:**
+
+
+Fast Travel → viagem rápida
+
+Track Location → marcar destino
+
+Ver progresso da área
+
+
+**Resultado Esperado:**
+O jogador navega e interage com o mapa sem dificuldades
