@@ -1,5 +1,3 @@
-
-
 **Must Have (Obrigatório)**
 
 Sistema de combate com espadas e posturas
