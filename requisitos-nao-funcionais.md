@@ -6,7 +6,7 @@
 
  O mundo aberto deve ser carregado sem telas de loading visíveis durante a exploração
 
- //----------//----------//----------//----------
+ ----------//----------//----------//----------//----------
 
 
 **Gráficos e Visuais**
@@ -17,7 +17,7 @@
 
  O jogo deve suportar HDR para enriquecer a paleta de cores
 
- //----------//----------//----------//----------
+ ----------//----------//----------//----------//----------
 
 
 **Áudio**
@@ -26,7 +26,7 @@
 
  A trilha sonora deve se adaptar dinamicamente ao contexto (exploração, combate, furtividade)
 
- //----------//----------//----------//----------
+----------//----------//----------//----------//----------
 
 
 **Acessibilidade**
@@ -37,7 +37,7 @@
 
  Deve haver opções de assistência para jogadores com dificuldades motoras
 
- //----------//----------//----------//----------
+ ----------//----------//----------//----------//----------
 
 
 **Compatibilidade**
@@ -48,7 +48,7 @@
 
  Deve suportar monitores ultrawide nas proporções 21:9 e 32:9
 
- //----------//----------//----------//----------
+ ----------//----------//----------//----------//----------
 
 
 **Confiabilidade**
