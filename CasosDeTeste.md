@@ -1,4 +1,4 @@
-**Caso de Uso 1 – Acessar o Jogo (Menu Inicial)**
+**Caso de Teste 1 – Acessar o Jogo (Menu Inicial)**
 Ator: Jogador
 
 Fluxo do Usuário:
@@ -21,7 +21,7 @@ O jogo executa a ação escolhida corretamente
 
 ----------//----------//----------//----------//----------//----------
 
-**Caso de Uso 2 – Configurar o Jogo (Menu de Opções)**
+**Caso de Teste 2 – Configurar o Jogo (Menu de Opções)**
 Ator: Jogador
 
 Fluxo do Usuário:
@@ -52,7 +52,7 @@ Configurações são salvas e aplicadas corretamente
 
 ----------//----------//----------//----------//----------//----------
 
-**Caso de Uso 3 – Navegar pelo Mapa**
+**Caso de Teste 3 – Navegar pelo Mapa**
 Ator: Jogador
 
 
