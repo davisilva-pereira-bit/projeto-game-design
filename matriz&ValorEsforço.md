@@ -10,7 +10,8 @@ Ataques furtivos
 
 Sistema de salvamento automático
 
-----------//----------//----------//----------//----------
+----------//----------//----------//----------//----------//----------//----------//----------//----------
+
 
 **Alto Valor / Alto Esforço (essenciais, porém complexas)**
 
@@ -24,7 +25,8 @@ Sistema de clima dinâmico
 
 Árvore de habilidades (progressão RPG)
 
-----------//----------//----------//----------//----------
+----------//----------//----------//----------//----------//----------//----------//----------//----------
+
 
 **Baixo Valor / Baixo Esforço (melhorias simples)**
 
@@ -36,7 +38,8 @@ Atividades secundárias simples
 
 Customizações estéticas leves
 
-----------//----------//----------//----------//----------
+----------//----------//----------//----------//----------//----------//----------//----------//----------
+
 
 **Baixo Valor / Alto Esforço (evitar ou deixar por último)**
 
